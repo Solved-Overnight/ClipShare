@@ -1,4 +1,3 @@
-le
 # ClipShare
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) <!-- Example Badge -->
@@ -32,7 +31,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone &lt;repository_url&gt;
+    git clone https://github.com/Solved-Overnight/ClipShare.git;
     cd clipshare
     ```
 2.  **Install dependencies:**
